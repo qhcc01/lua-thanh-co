@@ -18,7 +18,7 @@ window.INVITATION_CONFIG = {
   closingTitle: "Sự hiện diện của bạn là niềm vinh dự",
   closing: "Chúng tôi rất mong được đón tiếp bạn trong không gian của ký ức và tự hào. Hãy cùng nhau thắp lên ngọn lửa kết nối, để những giá trị đẹp của quá khứ tiếp tục lan tỏa trong hiện tại và tương lai.",
   signature: "Trân trọng kính mời",
-  timelineImage: "assets/timeline.png",
+  timelineImage: "assets/timeline.jpg",
   footerNote: "MỘT THỜI HOA LỬA - NGÀN ĐỜI KHẮC GHI",
   // Tạo thư mục music/ cùng cấp với index.html, chép file âm thanh vào và điền tên file tại đây:
   music: "music/nhac-nen.mp3"
